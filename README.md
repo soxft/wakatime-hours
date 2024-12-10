@@ -145,3 +145,4 @@ When submitting a pull request, please follow these steps:
 ## 📋 License
 
 This project is licensed under the MIT. See the [LICENSE](https://github.com/igorkowalczyk/wakatime-hours/blob/main/license.md) file for details
+
